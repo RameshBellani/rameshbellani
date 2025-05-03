@@ -27,7 +27,7 @@ I love creating content and exploring new technologies.
 - Proficient in the end-to-end development process, from design to implementation.  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=RameshBellani&color=blue&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RameshBellani&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 ## 🌐 Socials:  
