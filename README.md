@@ -27,7 +27,9 @@ I love creating content and exploring new technologies.
 - Proficient in the end-to-end development process, from design to implementation.  
 
 ---
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RameshBellani&title=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RameshBellani&color=blue&style=flat-square&label=Profile+Views)
+
+---
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshbellani/)  
 - [Portfolio](https://rameshprofile.vercel.app/)
