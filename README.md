@@ -30,9 +30,11 @@ I love creating content and exploring new technologies.
 ![Profile Views](https://komarev.com/ghpvc/?username=RameshBellani&label=👀%20Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
-## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshbellani/)  
-- [Portfolio](https://rameshprofile.vercel.app/)
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshbellani/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-%230E75B6?style=for-the-badge&logo=vercel&logoColor=white)](https://rameshprofile.vercel.app/)
+
 ---
 
 ## 💻 Tech Stack:  
